@@ -1,3 +1,6 @@
+### POINTS: 0
+### KEY: No submission
+
 # Mini-Project Django
 
 THIS IS A SOLO PROJECT.
